@@ -66,5 +66,4 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 
 #
 
-<!-- URL CORRETA -->
-![Snake](https://raw.githubusercontent.com/iamraissab/iamraissab/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
