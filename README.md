@@ -28,7 +28,7 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xOCA4aC0xYTIgMiAwIDAgMC0yIDJ2NmEyIDIgMCAwIDAgMiAyaDFhMiAyIDAgMCAwIDItMlYxMGEyIDIgMCAwIDAtMi0yeiIvPjxwYXRoIGQ9Ik0yIDhoMTZ2OWE0IDQgMCAwIDEtNCA0SDZhNCA0IDAgMCAxLTQtNFY4eiIvPjxwYXRoIGQ9Ik02IDF2MyIvPjxwYXRoIGQ9Ik0xMCAxdjMiLz48cGF0aCBkPSJNMTQgMXYzIi8+PC9zdmc+)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 
@@ -55,3 +55,7 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 #
 
 <img src="https://raw.githubusercontent.com/iamraissab/iamraissab/output/snake.svg" alt="Snake animation" />
+
+
+
+<!-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
