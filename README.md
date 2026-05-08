@@ -1,12 +1,16 @@
-# Bem-vindos! 👋  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+<img align="center" alt="" src="./src/header-gif.gif">
 
-Olá, eu sou a _Raissa Barros_! 👩‍💻   
+#
 
-Desenvolvedora fullstack em formação, apaixonada por resolver problemas através da programação. Aqui você encontra meus projetos, estudos e evolução diária na área de tecnologia.
-  
-<br>
-  
+<p align="center">Olá, eu sou a <strong>Raissa Barros</strong>! 👩‍💻<br>
+Desenvolvedora fullstack em formação, apaixonada por resolver problemas através da programação. Aqui você encontra meus projetos, estudos e evolução diária na área de tecnologia.<br><br>
+
 ## Sobre mim
 
 <br>
@@ -42,25 +46,25 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 
 <br>
 
-## Onde me encontrar
+<h3 align="left">Connect with me!</h3>
 
-<br>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:raissabarrosjesus21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/raissa-barros-773a26352/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/iamraissab)
 
-[![Linkedin](https://img.shields.io/badge/-raissa--barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissa-barros-773a26352/)](https://www.linkedin.com/in/raissa-barros-773a26352/)
-[![Gmail Badge](https://img.shields.io/badge/-raissabarrosjesus21@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raissabarrosjesus21@gmail.com)](mailto:raissabarrosjesus21@gmail.com)
-[![GitHub](https://img.shields.io/badge/-iamraissab-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/iamraissab)
+#
 
-<!--
-**iamraissab/iamraissab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamraissab&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-Here are some ideas to get you started:
+  <a href="https://github.com/iamraissab/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamraissab&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<!-- URL CORRETA -->
+![Snake](https://raw.githubusercontent.com/iamraissab/iamraissab/output/github-contribution-grid-snake-dark.svg)
