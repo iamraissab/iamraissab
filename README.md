@@ -8,7 +8,7 @@
 <hr>
 
 <br>
-<p align="center">Olá, eu sou <strong>Raissa Barros</strong>! 👩‍💻<br>
+<p align="center"><em>Olá, eu sou <strong>Raissa Barros</strong>! 👩‍💻</em><br>
 Desenvolvedora fullstack em formação, apaixonada por resolver problemas através da programação. Aqui você encontra meus projetos, estudos e evolução diária na área de tecnologia.<br><br>
 <br>
 
