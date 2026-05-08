@@ -24,11 +24,7 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 
 ## Minhas Skills
 
-<div align="center">
-  <img align="right" height="170em" 
-       src="./src/skills-gif.gif"/>
-
-  <div align="left">
+<img align="right" height="170em" src="./src/skills-gif.gif"/>
 
 ### **Aplicações e dados**
 
