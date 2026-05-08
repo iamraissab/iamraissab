@@ -25,7 +25,7 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 **Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xOCA4aC0xYTIgMiAwIDAgMC0yIDJ2NmEyIDIgMCAwIDAgMiAyaDFhMiAyIDAgMCAwIDItMlYxMGEyIDIgMCAwIDAtMi0yeiIvPjxwYXRoIGQ9Ik0yIDhoMTZ2OWE0IDQgMCAwIDEtNCA0SDZhNCA0IDAgMCAxLTQtNFY4eiIvPjxwYXRoIGQ9Ik02IDF2MyIvPjxwYXRoIGQ9Ik0xMCAxdjMiLz48cGF0aCBkPSJNMTQgMXYzIi8+PC9zdmc+)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 
 
@@ -37,7 +37,7 @@ Desenvolvedora fullstack em formação, apaixonada por resolver problemas atrav�
 
 **Ferramentas de desenvolvimento**
 
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIj48cGF0aCBkPSJNMjEuMzUgMTEuMjFMMTcuNSA3LjY1QzE3LjEgNy4zIDE2LjUgNy40IDE2LjIgNy44VjkuNUw5LjYyIDQuM0M5LjA3IDMuOSA4LjMgMy45IDcuNzUgNC4zTDMuNiA3LjA1QzMuMTUgNy4zIDIuODUgNy44IDIuODUgOC4zVjE1LjdDMi44NSAxNi4yIDMuMTUgMTYuNyAzLjYgMTYuOTVMNy43NSAxOS43QzguMDYgMTkuOSA4LjQ1IDIwIDguODUgMjBDOS4yIDIwIDkuNiAxOS45IDkuOSAxOS43TDE2LjU1IDE0LjVWMTYuMkMxNi41NSAxNi43IDE2LjkgMTcuMSAxNy4zIDE3LjRMMjEuMjUgMjAuOEMyMS42IDIxLjEgMjIgMjEuMSAyMi4yIDIwLjhMMjIuMjUgMjAuNkMyMi42IDIwLjIgMjIuNiAxOS42IDIyLjIgMTkuMkwxOC4zNSAxNS42QzE4LjEgMTUuMyAxOC4xIDE0LjggMTguMzUgMTQuNUwyMi4yIDEwLjlDMjIuNiAxMC41IDIyLjYgOS45IDIyLjIgOS41QzIyLjE1IDkuNDUgMjEuOSA5LjMgMjEuMzUgMTEuMjFaIiBmaWxsPSIjMDA3QUNDIi8+PC9zdmc+)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
 
 <br>
